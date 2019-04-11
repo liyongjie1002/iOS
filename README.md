@@ -11,6 +11,8 @@
     - [得呗首页](#%E5%BE%97%E5%91%97%E9%A6%96%E9%A1%B5)
   - [MVP](#mvp)
     - [demo](#demo-1)
+  - [Jenkins](#jenkins)
+    - [搭建教程](#%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -23,5 +25,6 @@
 
 ## MVP
 ### [demo](https://github.com/Iyongjie/MVP.git)
-=======
+## Jenkins
+### [搭建教程](http://note.youdao.com/noteshare?id=684569069317b3b43e3fb99412cced45)
 
