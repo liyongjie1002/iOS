@@ -11,8 +11,10 @@
     - [得呗首页](#%E5%BE%97%E5%91%97%E9%A6%96%E9%A1%B5)
   - [MVP](#mvp)
     - [demo](#demo-1)
-  - [Jenkins](#jenkins)
-    - [搭建教程](#%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B)
+- [Jenkins](#jenkins)
+  - [搭建教程](#%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B)
+- [动态修改app 图标](#%E5%8A%A8%E6%80%81%E4%BF%AE%E6%94%B9app-%E5%9B%BE%E6%A0%87)
+  - [demo](#demo-2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -25,6 +27,8 @@
 
 ## MVP
 ### [demo](https://github.com/Iyongjie/MVP.git)
-## Jenkins
-### [搭建教程](http://note.youdao.com/noteshare?id=684569069317b3b43e3fb99412cced45)
+# Jenkins
+## [搭建教程](http://note.youdao.com/noteshare?id=684569069317b3b43e3fb99412cced45)
 
+# 动态修改app 图标
+## [demo](https://github.com/Iyongjie/AlertIcon)
