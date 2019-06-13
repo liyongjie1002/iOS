@@ -21,6 +21,8 @@
   - [自定义gif图片](#%E8%87%AA%E5%AE%9A%E4%B9%89gif%E5%9B%BE%E7%89%87)
 - [LYEmptyView](#lyemptyview)
   - [解析](#%E8%A7%A3%E6%9E%90)
+- [后台大文件下载](#%E5%90%8E%E5%8F%B0%E5%A4%A7%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD)
+  - [demo](#demo-4)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -42,5 +44,10 @@
 ## [demo](https://github.com/Iyongjie/IGListKit-demo.git)
 # MBProgressHUD小坑
 ## [自定义gif图片](http://note.youdao.com/noteshare?id=324c2e4e3cea03a3df78ec314d646daa)
+
 # LYEmptyView
 ## [解析](http://note.youdao.com/noteshare?id=c17113860ee901c8b82f169f35c02b8f)
+
+# 后台大文件下载
+## [demo](https://github.com/Iyongjie/BackgroundDownload.git)
+
