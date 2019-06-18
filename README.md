@@ -23,6 +23,10 @@
   - [解析](#%E8%A7%A3%E6%9E%90)
 - [后台大文件下载](#%E5%90%8E%E5%8F%B0%E5%A4%A7%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD)
   - [demo](#demo-4)
+- [微信群聊头像](#%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%A4%B4%E5%83%8F)
+  - [群聊头像排列](#%E7%BE%A4%E8%81%8A%E5%A4%B4%E5%83%8F%E6%8E%92%E5%88%97)
+- [瀑布流实现](#%E7%80%91%E5%B8%83%E6%B5%81%E5%AE%9E%E7%8E%B0)
+  - [demo](#demo-5)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -50,4 +54,7 @@
 
 # 后台大文件下载
 ## [demo](https://github.com/Iyongjie/BackgroundDownload.git)
-
+# 微信群聊头像
+## [群聊头像排列](https://github.com/Iyongjie/GroupIcon.git)
+# 瀑布流实现
+## [demo](https://github.com/Iyongjie/MDWaterFlowLayout.git)
