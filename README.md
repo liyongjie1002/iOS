@@ -23,6 +23,8 @@
   - [解析](#%E8%A7%A3%E6%9E%90)
 - [后台大文件下载](#%E5%90%8E%E5%8F%B0%E5%A4%A7%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD)
   - [demo](#demo-4)
+- [图片脸部识别](#%E5%9B%BE%E7%89%87%E8%84%B8%E9%83%A8%E8%AF%86%E5%88%AB)
+  - [demo](#demo-5)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -50,4 +52,6 @@
 
 # 后台大文件下载
 ## [demo](https://github.com/Iyongjie/BackgroundDownload.git)
+# 图片脸部识别
+## [demo](https://github.com/Iyongjie/EyeBall)
 
